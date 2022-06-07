@@ -1,0 +1,5 @@
+Flask==2.1.2
+pymongo==4.1.1
+sendgrid==6.9.7
+python-decouple==3.6
+dnspython==2.2.1
